@@ -10,14 +10,14 @@ This generates a maze using the Hunt and Kill algorithm. You can specify the see
 ### Screenshots
 
 #### Different Sizes
-![5X5](~/images/471_Final2.PNG)
-![20X10](~/images/471_Final1.PNG)
-![20X20](~/images/471_Final0.PNG)
+![5X5](/images/471_Final2.PNG)
+![20X10](/images/471_Final1.PNG)
+![20X20](/images/471_Final0.PNG)
 
 #### Different Seeds
-![Random Seed 5](4~/images/471_Final5)
-![Random Seed 6](4~/images/471_Final4)
-![Unknown Random Seed](4~/images/471_Final5)
+![Random Seed 5](/images/471_Final5)
+![Random Seed 6](/images/471_Final4)
+![Unknown Random Seed](/images/471_Final5)
 
 [Link](url) and ![Image](src)
 
