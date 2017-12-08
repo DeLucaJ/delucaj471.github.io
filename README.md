@@ -7,18 +7,16 @@ This generates a maze using the Hunt and Kill algorithm. You can specify the see
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Forward | Left | Backward | Right | Upward | Downward |
 
-### Screenshots
+## Screenshots
 
-#### Different Sizes
+### Different Sizes
 ![5X5](/images/471_Final2.PNG)
 ![20X10](/images/471_Final1.PNG)
 ![20X20](/images/471_Final0.PNG)
 
-#### Different Seeds
-![Random Seed 5](/images/471_Final5)
-![Random Seed 6](/images/471_Final4)
-![Unknown Random Seed](/images/471_Final5)
+### Different Seeds
+![Random Seed 5](/images/471_Final5.PNG)
+![Random Seed 6](/images/471_Final4.PNG)
+![Unknown Random Seed](/images/471_Final5.PNG)
 
-[Link](url) and ![Image](src)
-
-## [Git Repo](https://github.com/calpoly-csc471-fall-17/final-project-DeLucaJ)
+# [Git Repo](https://github.com/calpoly-csc471-fall-17/final-project-DeLucaJ)
